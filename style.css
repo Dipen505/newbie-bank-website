@@ -1,0 +1,27 @@
+body {
+    margin: 180px;
+}
+.box {
+    box-shadow: 5px 5px 15px 5px rgb(153, 151, 151);
+    margin-top: 70px;
+    padding: 50px;
+    border-radius: 5px;
+}
+#transaction-page {
+    display: none;
+}
+#balance-box {
+    background-color: rgb(241, 133, 105);
+    padding: 25px;
+    border-radius: 5px;
+}
+#withdraw-box {
+    background-color: rgb(223, 220, 68);
+    padding: 25px;
+    border-radius: 5px;
+}
+#deposit-box {
+    background-color: rgb(5, 200, 226);
+    padding: 25px;
+    border-radius: 5px;
+}
